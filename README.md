@@ -1,2 +1,3 @@
 # POS-Experiments
-POS Kannada
+
+Trying different methods to perform POS tagging in Kannada
